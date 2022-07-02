@@ -19,3 +19,8 @@ def solution(s):
                 t = ''
 
     return int(answer)
+
+print(solution('one4seveneight'))
+print(solution('23four5six7'))
+print(solution('2three45sixseven'))
+print(solution('123'))
